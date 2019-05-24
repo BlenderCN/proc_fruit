@@ -3,7 +3,7 @@ bl_info = {
     "category": "Add Mesh",
     "author": "Rafael",
     "version": (0, 0),
-    "blender":(2.79),
+    #"blender":(2.79),
     }
 
 import bpy
